@@ -8,7 +8,7 @@ A machine learning project that predicts customer churn for a telecom company us
 
 **Mandeepsinh Parmar**
 
-> This is a mini project developed as part of my internship in the domain of **Artificial Intelligence & Machine Learning**. The project demonstrates a complete end-to-end ML pipeline — from raw data preprocessing to model training, evaluation, explainability (SHAP), and deployment through an interactive web-based UI.
+> This is a mini project developed as part of my internship at Internwave Edtech in the domain of **Artificial Intelligence & Machine Learning**. The project demonstrates a complete end-to-end ML pipeline — from raw data preprocessing to model training, evaluation, explainability (SHAP), and deployment through an interactive web-based UI.
 
 ---
 
